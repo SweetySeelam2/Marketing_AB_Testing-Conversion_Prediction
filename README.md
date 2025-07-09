@@ -65,7 +65,7 @@ Amazon launched a new **paid ad strategy** and needed to validate whether it per
 
 - 📘 GitHub Repo: [Marketing_Strategy_AB_Testing](https://github.com/SweetySeelam2/Marketing_Strategy_AB_Testing)
 - 🚀 Streamlit App: [Conversion Prediction App](https://marketingstrategyabtesting-eu4hug4vbgnflcdfxxdcyh.streamlit.app/)
-- 📈 Power BI Dashboard: [Marketing_AB_Testing-Conversion_Prediction](https://github.com/SweetySeelam2/Marketing_AB_Testing-Conversion_Prediction/AB Testing & Conversion ML.pdf)
+- 📈 Power BI Dashboard: [Marketing_AB_Testing-Conversion_Prediction Dashboard-PDF](https://github.com/SweetySeelam2/Marketing_AB_Testing-Conversion_Prediction/blob/main/AB%20Testing%20%26%20Conversion%20ML.pdf)
 
 ---
 
