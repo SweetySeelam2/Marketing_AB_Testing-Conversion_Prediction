@@ -174,14 +174,15 @@ Business Analyst | Aspiring Data Scientist | Aspiring ML & Dashboard Developer
 
 ---
 
-## 🛡 License
+## 🔒 Proprietary & All Rights Reserved
 
-© 2025 Sweety Seelam. All Rights Reserved.
-No reuse, redistribution, or commercial use allowed without written permission.
+© 2025 Sweety Seelam. This work is proprietary and protected by copyright. All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
+
+For licensing, commercial use, or collaboration inquiries, please contact: LinkedIn | Email: sweetyseelam2@gmail.com
 
 ---
 
-## 📚 APA References
+## 📚 References
 
 - Kaur, G. (2025). *Modern A/B testing and ad strategies in e-commerce*. Journal of Marketing Intelligence, 47(2), 45–56.
 - Lundberg, S. M., & Lee, S. (2017). A unified approach to interpreting model predictions. *Advances in Neural Information Processing Systems*, 30, 4765–4774.
